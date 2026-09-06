@@ -1,1 +1,12 @@
 # security-automation
+1. android
+2. apk-analysis
+3. api-security
+4. reconnaissance
+5. vulnerability-scanning
+6. report-generation
+7. frida
+8. yara
+9. IOC-processing
+10. log-analysis
+11. utilities
